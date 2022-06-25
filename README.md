@@ -18,7 +18,7 @@ DevOps Prerequisite (freecodecamp) - https://youtu.be/Wvf0mBNGjXY
 - Interplanetary DevOps at NASA JPL - https://www.usenix.org/conference/lisa16/technical-sessions/presentation/isla
 - Target CIO explains how DevOps took root inside the retail giant - https://enterprisersproject.com/article/2017/1/target-cio-explains-how-devops-took-root-inside-retail-giant
 
-## Linux 
+## Linux  
 
 - Introduction to Linux - https://www.edx.org/course/introducti...
 
