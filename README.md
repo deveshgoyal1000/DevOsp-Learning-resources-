@@ -57,15 +57,23 @@ Introduction to YAML - https://youtu.be/1uFVr15xDGg
 
 Git cheatsheet - https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
 
-[Git and GitHub for Beginners - Crash Course - https://www.youtube.com/watch?v=RGOj5yH7evk&t=8s
+What is Version Control? - https://www.youtube.com/watch?v=Yc8sCSeMhi4
 
-Git Tutorial for Beginners Programming with Mosh - https://www.youtube.com/watch?v=8JJ101D3knE&t=52s
+Types of Version Control System - https://www.youtube.com/watch?v=kr62e_n6QuQ
+ 
+Git and GitHub for Beginners - Crash Course (freeCodeCamp.org) - https://www.youtube.com/watch?v=RGOj5yH7evk&t=8s
+
+Git Tutorial for Beginners (Programming with Mosh) - https://www.youtube.com/watch?v=8JJ101D3knE&t=52s
+
+Git for Professionals Tutorial (freecodecamp) - https://www.youtube.com/watch?v=Uszj_k0DGsg
 
 Git and GitHub crash course  (freecodecamp) - https://youtu.be/RGOj5yH7evk
 
 Complete Git and GitHub Tutorial (Kunal Kushwaha) - https://youtu.be/apGV9Kg7ics
 
 Git for Professionals (freecodecamp)  -https://youtu.be/Uszj_k0DGsg
+
+Learn GitLab in 3 Hours | GitLab (LambdaTest) - https://www.youtube.com/watch?v=8aV5AxJrHDg
 
 ## Cloud
 
