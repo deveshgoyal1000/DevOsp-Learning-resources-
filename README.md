@@ -1,4 +1,4 @@
-# 100DaysofDevOsp:-
+# 100DaysofDevOsp :-
 Here I will update with my journey of learning DevOps.
 ### Roadmap: 
 Following Saiyam Pathak Roadmap https://www.youtube.com/watch?v=7l_n97Mt0ko&t=1471s
