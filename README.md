@@ -20,21 +20,21 @@ DevOps Prerequisite (freecodecamp) - https://youtu.be/Wvf0mBNGjXY
 
 ## Linux 
 
-Introduction to Linux - https://www.edx.org/course/introducti...
+- Introduction to Linux - https://www.edx.org/course/introducti...
 
-Learn the Linux Fundamentals - Part 1 - https://www.youtube.com/watch?v=kPylihJRG70
+- Learn the Linux Fundamentals - Part 1 - https://www.youtube.com/watch?v=kPylihJRG70
 
-Linux for hackers (don't worry you don't need to be a hacker!)- https://www.youtube.com/watch?v=VbEx7B_PTOE
+- Linux for hackers (don't worry you don't need to be a hacker!)- https://www.youtube.com/watch?v=VbEx7B_PTOE
 
-vim tutorial - https://www.youtube.com/watch?v=IiwGbcd8S7I
+- vim tutorial - https://www.youtube.com/watch?v=IiwGbcd8S7I
 
-Vim in 100 Seconds - https://www.youtube.com/watch?v=-txKSRn0qeA
+- Vim in 100 Seconds - https://www.youtube.com/watch?v=-txKSRn0qeA
 
-The Beginner's guide to SSH - https://www.youtube.com/watch?v=2QXkrLVsRmk
+- The Beginner's guide to SSH - https://www.youtube.com/watch?v=2QXkrLVsRmk
 
-Bash script with practical examples - Full Course- https://www.youtube.com/watch?v=TPRSJbtfK4M
+- Bash script with practical examples - Full Course- https://www.youtube.com/watch?v=TPRSJbtfK4M
 
-Bash in 100 seconds - https://www.youtube.com/watch?v=I4EWvMFj37g
+- Bash in 100 seconds - https://www.youtube.com/watch?v=I4EWvMFj37g
 
 
 
