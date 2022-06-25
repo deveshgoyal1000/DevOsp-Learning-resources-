@@ -81,11 +81,21 @@ AWS cloud practitioner (freecodecamp) - https://youtu.be/SOTamWNgDKc
 
 ## Containers-Docker
 
+Docker (kunal) - https://www.youtube.com/watch?v=17Bl31rlnRM&list=WL&index=128&t=61s
+
 Docker playlist by Saloni - https://youtube.com/playlist?list=PL5...
+
+
 
 Docker ((freecodecamp)  - https://youtu.be/9zUHg7xjIqQ
 
 Docker (Techworldwithnana) - https://youtu.be/3c-iBn73dDE
+
+Blog on gettng started building a docker image - https://stackify.com/docker-build-a-beginners-guide-to-building-docker-images/
+
+Docker documentation for building an image - https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
+
+Docker Tutorial for Beginners (Programming with Mosh) - https://www.youtube.com/watch?v=pTFZFxd4hOI
 
 Docker deep dive by Nigel - https://youtu.be/GwXLNAcHk-k
 
