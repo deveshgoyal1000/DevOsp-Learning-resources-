@@ -5,11 +5,47 @@ Following Saiyam Pathak Roadmap https://www.youtube.com/watch?v=7l_n97Mt0ko&t=14
 
 ### Resources 
 ## Prerequisites
-Introduction to Linux - https://www.edx.org/course/introducti...
 
 DevOps Prerequisite (freecodecamp) - https://youtu.be/Wvf0mBNGjXY
 
+## Devops Introduction 
+- How Netflix Thinks of DevOps -https://www.youtube.com/watch?v=UTKIT6STSVM)
+- How Netflix Thinks of DevOps - https://www.youtube.com/watch?v=UTKIT6STSVM)
+- 16 Popular DevOps Use Cases & Real Life Applications 2021 https://www.upgrad.com/blog/devops-use-cases-applications/
+- DevOps: The Amazon Story - https://www.youtube.com/watch?v=ZzLa0YEbGIY
+- How Etsy makes DevOps work - https://www.networkworld.com/article/2886672/how-etsy-makes-devops-work.html
+- Adopting DevOps @ Scale Lessons learned at Hertz, Kaiser Permanente and lBM - https://www.youtube.com/watch?v=gm18-gcgXRY
+- Interplanetary DevOps at NASA JPL - https://www.usenix.org/conference/lisa16/technical-sessions/presentation/isla
+- Target CIO explains how DevOps took root inside the retail giant - https://enterprisersproject.com/article/2017/1/target-cio-explains-how-devops-took-root-inside-retail-giant
+
+## Linux 
+
+Introduction to Linux - https://www.edx.org/course/introducti...
+
+Learn the Linux Fundamentals - Part 1 - https://www.youtube.com/watch?v=kPylihJRG70
+
+Linux for hackers (don't worry you don't need to be a hacker!)- https://www.youtube.com/watch?v=VbEx7B_PTOE
+
+vim tutorial - https://www.youtube.com/watch?v=IiwGbcd8S7I
+
+Vim in 100 Seconds - https://www.youtube.com/watch?v=-txKSRn0qeA
+
+The Beginner's guide to SSH - https://www.youtube.com/watch?v=2QXkrLVsRmk
+
+Bash script with practical examples - Full Course- https://www.youtube.com/watch?v=TPRSJbtfK4M
+
+Bash in 100 seconds - https://www.youtube.com/watch?v=I4EWvMFj37g
+
+
+
+
+## Networking 
+
 CCNA part 1 - https://youtu.be/rv3QK2UquxM
+
+## Programming language 
+
+Why Golang : https://www.youtube.com/watch?v=7pLqIIAqZD4&t=9s
 
 Golang complete course (techworldwithnana) - https://youtu.be/yyUHQIec83I
 
@@ -18,6 +54,13 @@ Golang complete course (techworldwithnana) - https://youtu.be/yyUHQIec83I
 Introduction to YAML - https://youtu.be/1uFVr15xDGg
 
 ## Git
+
+Git cheatsheet - https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
+
+[Git and GitHub for Beginners - Crash Course - https://www.youtube.com/watch?v=RGOj5yH7evk&t=8s
+
+Git Tutorial for Beginners Programming with Mosh - https://www.youtube.com/watch?v=8JJ101D3knE&t=52s
+
 Git and GitHub crash course  (freecodecamp) - https://youtu.be/RGOj5yH7evk
 
 Complete Git and GitHub Tutorial (Kunal Kushwaha) - https://youtu.be/apGV9Kg7ics
@@ -28,7 +71,7 @@ Git for Professionals (freecodecamp)  -https://youtu.be/Uszj_k0DGsg
 
 AWS cloud practitioner (freecodecamp) - https://youtu.be/SOTamWNgDKc
 
-## Docker
+## Containers-Docker
 
 Docker playlist by Saloni - https://youtube.com/playlist?list=PL5...
 
@@ -78,7 +121,7 @@ CI/CD week - https://youtube.com/playlist?list=PL5...
 
 Get Certified for GitOps with Argo - https://codefresh.learnworlds.com/
 
-## IAC tools
+## IAC (Infrastructure as Code) tools
 
 Terrafrom in 2 hours (freecodecamp) - https://youtu.be/SLB_c_ayRMo
 
