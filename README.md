@@ -49,6 +49,7 @@ Why Golang : https://www.youtube.com/watch?v=7pLqIIAqZD4&t=9s
 
 Golang complete course (techworldwithnana) - https://youtu.be/yyUHQIec83I
 
+Golang language: https://www.youtube.com/watch?v=YS4e4q9oBaU&t=15296s
 ## YAML
 
 Introduction to YAML - https://youtu.be/1uFVr15xDGg
