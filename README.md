@@ -43,6 +43,8 @@ DevOps Prerequisite (freecodecamp) - https://youtu.be/Wvf0mBNGjXY
 
 CCNA part 1 - https://youtu.be/rv3QK2UquxM
 
+Kunal Kushwaha networking video:- https://www.youtube.com/watch?v=IPvYjXCsTg8&t=6675s
+
 ## Programming language 
 
 Why Golang : https://www.youtube.com/watch?v=7pLqIIAqZD4&t=9s
