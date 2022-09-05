@@ -209,3 +209,8 @@ DevOps Interview Questions and Answers | Intellipaat : https://www.youtube.com/w
 Project-1 : Automated WebDevelopment Environment
 In this Project I have created an Automated Web Development Environment integrating Git/GitHub, Jenkins and Httpd WebServer in RHEL-8. In this Project the developer just need to Commit the code from his local repository, GitHub will automatically send the code to Jenkins using webhooks as soon as there will be any commit in GitHub repo, and Jenkins will then automatically launch the website into apache2 httpd server which is setup in RHEL-8.
 
+
+Project-2 : Automated WebSite Deployement within Docker
+In this Project I have created an Automated Website Deployment inside a docker container. In this project I have used the techologies like Git/GitHub, Jenkins, and Docker Container for making an automated website deployment.
+
+For Demonstration of the Project Click Here
