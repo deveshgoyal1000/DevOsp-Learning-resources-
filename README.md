@@ -206,28 +206,35 @@ DevOps Interview Questions and Answers | Intellipaat : https://www.youtube.com/w
 
 ## DevOps projects: 
 
-Project-1 : Automated WebDevelopment Environment
+#### Project-1 : Automated WebDevelopment Environment
 In this Project I have created an Automated Web Development Environment integrating Git/GitHub, Jenkins and Httpd WebServer in RHEL-8. In this Project the developer just need to Commit the code from his local repository, GitHub will automatically send the code to Jenkins using webhooks as soon as there will be any commit in GitHub repo, and Jenkins will then automatically launch the website into apache2 httpd server which is setup in RHEL-8.
 
 
-Project-2 : Automated WebSite Deployement within Docker
+#### Project-2 : Automated WebSite Deployement within Docker
 In this Project I have created an Automated Website Deployment inside a docker container. In this project I have used the techologies like Git/GitHub, Jenkins, and Docker Container for making an automated website deployment.
 
 
-Project-3 : Containerization Within Container
+#### Project-3 : Containerization Within Container
 In this Project I have used the concepts of docker to make Automation Project lanching docker-within-docker so that the Project can be easily shipped from one system to another without any problem. Docker Concepts are very useful for such projects when you need to send your project with complete environment of the project.
 
 
-Project-4 : CI/CD DevEnv/ProductionEnv Deployment
+#### Project-4 : CI/CD DevEnv/ProductionEnv Deployment
 In this project I have created Continous Deployment using Git, Jenkins and Docker but it more focused in automation of Developer Environment and Production Envirnoment Deployment.
 
-Project-5 : Java Application using Gradle
+#### Project-5 : Java Application using Gradle
 Gradle is a well-known build automation tool that works across a variety of platforms and languages. This project includes establishing a Java application and breaking it down into subprojects in order to modularize it.
 After completing this project, you will know how to initialize a project as Java application, run the build and build it’s test report. You will learn the way to execute a Java application and build it in an archive.
 
-Project-6 :WebServer using Docker
+#### Project-6 :WebServer using Docker
 Docker is a popular container technology for hosting services and applications that virtualizes operating systems and builds lightweight containers. You will create a default base image for this project that other developers can use in their production environments. This project offers the framework for web app images in Python, Ruby, and Meteor.
 On successful completion of this project, you will be able to reduce the size of the Dockerfile, shorten the time it takes to write a Dockerfile. Also, you will learn to correctly setup the base system and reduce the amount of time it takes to run docker build and the download time.
 
+#### Project-7 :Jenkins Remoting Project
+Jenkins Remoting is a library and archive for creating a communication layer. TCP protocols, data streaming, procedure calls, and other features are all included.
+In this project, you will have to improve Jenkins Remoting, a communication layer implementation library. Jenkins Remoting can be made compatible with a bus technology like ActiveMQ or RabbitMQ. You’ll need knowledge of networking fundamentals, Java, and message queues to execute the task.
+
+#### Project-8 : CD Pipeline using AWS
+You will develop a continuous delivery pipeline for a small web application in this project. To store your source code, you’ll first use a version control system. 
+Then you’ll learn how to set up a continuous delivery pipeline that will deploy your web application automatically anytime your source code is updated. This project uses GitHub, AWS Elastic Beanstalk, AWS CodeBuild, and AWS CodePipeline.
 
 
