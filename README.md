@@ -237,4 +237,22 @@ In this project, you will have to improve Jenkins Remoting, a communication laye
 You will develop a continuous delivery pipeline for a small web application in this project. To store your source code, you’ll first use a version control system. 
 Then you’ll learn how to set up a continuous delivery pipeline that will deploy your web application automatically anytime your source code is updated. This project uses GitHub, AWS Elastic Beanstalk, AWS CodeBuild, and AWS CodePipeline.
 
+ #### Project-9 :Deploying a Containerized Web Application
+This project demonstrates how to package a web application as a Docker container image and run it on a Google Kubernetes Engine (GKE) cluster. The web application is then deployed as a load-balanced collection of replicas that can scale to meet the demands of your users.
+This project will help you in learning of how to package a sample web application into a Docker image, uploading the Docker image to Artifact Registry, creating a GKE cluster and deploying it to the cluster, managing autoscaling for deployment, exposing the app to the internet and deploying a new version of it.
 
+#### Project-10 :Building Version Control System
+You can use a Version Control System to keep track of your code, inspect multiple versions of it, switch between them, maintain different versions of it, and share it with other programmers.
+You will start with the basics and save code in our version control system. You will have to take the long way to set up a repository in order to do so. From there, you will figure out how to navigate through history. Then you will figure out how to handle branching, which is deceptively difficult in and of itself. You’ll be ready for Git once you’ve finished branching.
+
+#### Project-11 :Deploying Application Using Kubernetes
+In this project, you are going to use a simple web service which parses user messages and adds your message to a Redis Server. It is similar to a voicemail where the users can leave messages. 
+This project needs to run the application on Kubernetes, hence dockerizing is the primary step in this project. Hence, you will learn how to enable the application to run in docker containers. 
+
+#### Project-12 : Structuring a Terraform Project
+In order to ensure its maintainability and extensibility in day-to-day operations, Terraform projects must be properly structured according to their use cases and perceived complexity.
+This project will teach you how to organize Terraform projects based on their general purpose and complexity. Then, using the more popular Terraform features such as variables, localities, data sources, and provisioners, you’ll design a project with a simple structure. In the end, your project will use DigitalOcean to deploy an Ubuntu 20.04 server (Droplet), install an Apache web server, and point your domain to it.
+
+#### Project-13 :Building and Executing Selenium Project
+Test automation requires the creation and execution of Selenium projects. It facilitates the execution of tests, the analysis of reports, and the reporting of bugs. 
+Needless to say, this aids in the faster delivery of high-quality products to clients, making them happier. You will be able to demonstrate how to develop a Selenium project employing both a “Java Project” and a “Maven Project” after completing this project.
