@@ -206,8 +206,10 @@ DevOps Interview Questions and Answers | Intellipaat : https://www.youtube.com/w
 
 ## DevOps projects: 
 
-#### Project-1 : Automated WebDevelopment Environment
-In this Project I have created an Automated Web Development Environment integrating Git/GitHub, Jenkins and Httpd WebServer in RHEL-8. In this Project the developer just need to Commit the code from his local repository, GitHub will automatically send the code to Jenkins using webhooks as soon as there will be any commit in GitHub repo, and Jenkins will then automatically launch the website into apache2 httpd server which is setup in RHEL-8.
+DevOps Projects: Why Are They So Important?
+Studying devops is an essential skill to learn in order to make the software development lifecycle more efficient. You are recommended to make some good DevOps projects as DevOps engineers must be familiar with the below mentioned skills:
+
+
 
 
 #### Project-2 : Automated WebSite Deployement within Docker
