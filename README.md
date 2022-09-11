@@ -208,7 +208,14 @@ DevOps Interview Questions and Answers | Intellipaat : https://www.youtube.com/w
 
 DevOps Projects: Why Are They So Important?
 Studying devops is an essential skill to learn in order to make the software development lifecycle more efficient. You are recommended to make some good DevOps projects as DevOps engineers must be familiar with the below mentioned skills:
+Fundamentals of Linux and Scripting: Many firms prefer to host their apps on the Linux operating system, therefore DevOps engineers must be familiar with it. In addition, Linux is used to control the master nodes of configuration management systems like Chef, Ansible, and Puppet.
+Continuous Integration and Continuous Delivery: Continuous delivery (CD) is a computerized method in which every update is designed, tested, and released automatically. On the other hand, continuous integration (CI) is a procedure that requires all members of a team to utilise a single version control system and to integrate their work into the main branch on a frequent basis.
+Infrastructure as Code: With the rise of containerization and cloud computing technologies, the infrastructure required by developers can now be given by an automated script. The script is used to manage configurations and to run configuration management software. It also runs the necessary commands. As a result, the core application infrastructure or platform is available in a matter of seconds.
+Configuration Management:  The process of keeping track of software and operating system configurations is known as configuration management. It can be used to manage the configurations of thousands of servers by utilising the management server to run a single command. Popular configuration management software tools include Ansible, Chef, and Puppet.
+Automation: In DevOps, automation is a key goal. It is the application of software to reduce human participation while enhancing efficiency. Gradle, Git, Jenkins, and Docker are all prominent automation platforms that DevOps engineers should be familiar with.
 
+#### Project-1 : Automated WebDevelopment Environment
+In this Project I have created an Automated Web Development Environment integrating Git/GitHub, Jenkins and Httpd WebServer in RHEL-8. In this Project the developer just need to Commit the code from his local repository, GitHub will automatically send the code to Jenkins using webhooks as soon as there will be any commit in GitHub repo, and Jenkins will then automatically launch the website into apache2 httpd server which is setup in RHEL-8.
 
 
 
