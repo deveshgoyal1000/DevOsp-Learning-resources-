@@ -202,6 +202,9 @@ Styra Academy - https://academy.styra.com/courses/opa...
 
 ## Cloud Computing:
 
+https://www.youtube.com/watch?v=fp9_ubiKqFU
+
+
 ## DevOps Interview Questions
 DevOps Interview Questions and Answers | Intellipaat : https://www.youtube.com/watch?v=oG8I8kds8rI
 
