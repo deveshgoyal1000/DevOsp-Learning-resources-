@@ -269,3 +269,7 @@ This project will teach you how to organize Terraform projects based on their ge
 #### Project-13 :Building and Executing Selenium Project
 Test automation requires the creation and execution of Selenium projects. It facilitates the execution of tests, the analysis of reports, and the reporting of bugs. 
 Needless to say, this aids in the faster delivery of high-quality products to clients, making them happier. You will be able to demonstrate how to develop a Selenium project employing both a “Java Project” and a “Maven Project” after completing this project.
+
+
+Certification: CCNA
+https://www.koenig-solutions.com/ccna-cisco-certified-network-associate-training-course?keyword=best%20ccna%20certification&device=c&utm_device=c&msclkid=f4f6f5572ac4111b720396739d60720b&utm_source=bing&utm_medium=cpc&utm_campaign=Rest%20of%20India&utm_term=best%20ccna%20certification&utm_content=CCNA%20-%20India#schedulec
