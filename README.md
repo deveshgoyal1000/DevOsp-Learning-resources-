@@ -1,14 +1,14 @@
-# 100DaysofDevOsp:-
-Here I will update with my journey of learning DevOps.
-### Roadmap: 
-Following Saiyam Pathak Roadmap https://www.youtube.com/watch?v=7l_n97Mt0ko&t=1471s
+# DevOps-Learning-resources :
+Here are the Free DevOps resources that will be helpful in your learning journey.
+## Roadmap: 
 
-### Resources 
+#### Saiyam Pathak  https://www.youtube.com/watch?v=7l_n97Mt0ko&t=1471s
+
 ## Prerequisites
 
 DevOps Prerequisite (freecodecamp) - https://youtu.be/Wvf0mBNGjXY
 
-## Devops Introduction 
+## DevOps Introduction 
 - How Netflix Thinks of DevOps -https://www.youtube.com/watch?v=UTKIT6STSVM)
 - How Netflix Thinks of DevOps - https://www.youtube.com/watch?v=UTKIT6STSVM)
 - 16 Popular DevOps Use Cases & Real Life Applications 2021 https://www.upgrad.com/blog/devops-use-cases-applications/
