@@ -22,7 +22,7 @@ DevOps Prerequisite (freecodecamp) - https://youtu.be/Wvf0mBNGjXY
 
 - Introduction to Linux - https://www.edx.org/course/introducti...
 
-- Learn the Linux Fundamentals - Part 1 - https://www.youtube.com/watch?v=kPylihJRG70
+- Learn the Linux Fundamentals - Part 1: https://www.youtube.com/watch?v=kPylihJRG70
 
 - Linux for hackers (don't worry you don't need to be a hacker!)- https://www.youtube.com/watch?v=VbEx7B_PTOE
 
@@ -47,7 +47,7 @@ Kunal Kushwaha networking video:- https://www.youtube.com/watch?v=IPvYjXCsTg8&t=
 
 ## Programming language 
 
-Why Golang : https://www.youtube.com/watch?v=7pLqIIAqZD4&t=9s
+Why Golang: https://www.youtube.com/watch?v=7pLqIIAqZD4&t=9s
 
 Golang complete course (techworldwithnana) - https://youtu.be/yyUHQIec83I
 
